@@ -109,5 +109,3 @@ We are happy to receive project requests and ideas by email:
 ### 🔗 Built together · Shared openly · Improved internationally 🛡️
 
 </div>
-
-Deine früheren Besucher-, Follower- und Repository-Anzeigen sind ebenfalls enthalten. Die Stats-Karten zeigen unter anderem Stars, Commits, Pull Requests, Issues, Sprachverteilung, Beitragsserie und Aktivität. GitHub-Statistikdienste verwenden standardmässig öffentliche Daten. <citation src="1,2"></citation>
