@@ -12,8 +12,6 @@
 
 <p>
   <img src="https://img.shields.io/github/followers/NaZy-OS?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=NaZy-OS&label=Profile%20views&style=for-the-badge&color=2563eb" alt="Profile views" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNAZY-OS&amp;query=%24.public_repos&amp;label=Public%20repositories&amp;style=for-the-badge&amp;logo=github&amp;color=2563eb" alt="Public repositories" />
 </p>
