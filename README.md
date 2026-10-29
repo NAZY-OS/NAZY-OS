@@ -1,94 +1,111 @@
 <div align="center">
 
 # 🛡️ NaZy OS 🌐
-[Network Analysis and Zoning for You] 
-### 🐧 A braw security-focused Linux distro · 🧰 Handy tools · 🌐 Open doors & fair winds
 
-**A non-profit clan of developers biggin a security-focused Linux distribution and braw software for Linux and beyond.**
+### Network Analysis and Zoning for You
 
-[🌍 Website](https://www.NaZy-os.org) &nbsp; ◆ &nbsp; [🖥️ GitHub projects](https://github.com/NAZY-OS?tab=repositories) &nbsp; ◆ &nbsp; [✉️ Send us a mail message](mailto:support@nazy-os.org)
+**An international non-profit organisation building a security-focused Linux distribution and practical open-source tools.**
 
-<img src="https://komarev.com/ghpvc/?username=NaZy-OS&style=for-the-badge&color=2563eb" alt="Profile views" />
+🌍 International collaboration &nbsp; · &nbsp; 🐧 Linux &nbsp; · &nbsp; 🛡️ Security &nbsp; · &nbsp; 🧰 Useful tools
+
+[🌐 Website](https://www.nazy-os.org) &nbsp; ◆ &nbsp; [🖥️ GitHub projects](https://github.com/NaZy-OS?tab=repositories) &nbsp; ◆ &nbsp; [✉️ Contact the team](mailto:support@nazy-os.org)
+
+<p>
+  <img src="https://img.shields.io/github/followers/NaZy-OS?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/repos/NaZy-OS?label=Public%20repositories&style=for-the-badge&logo=github&color=2563eb" alt="Public repositories" />
+  <img src="https://komarev.com/ghpvc/?username=NaZy-OS&label=Profile%20views&style=for-the-badge&color=2563eb" alt="Profile views" />
+</p>
 
 </div>
 
 ```text
-      ┌─────────────── 🌐 ───────────────┐
-      │  Linux   ──  Security  ──  Tools  │
-      └─────────────────────────────────┘
+        ┌────────────────────────────────────────┐
+        │  🌍 International team · Open source   │
+        │  🐧 Linux · 🛡️ Security · 🧰 Tools      │
+        └────────────────────────────────────────┘
 ```
 
-## 🛰️ About NaZy OS — Non Profit *Fit's like?*
+## 🌐 Who We Are
 
-NaZy OS is a security-focused Linux distribution currently in development. Alongside the main distro, our crew crafts trusty security tools, handy Linux utilities, scripts, and web projects.
+NaZy OS is an international non-profit organisation bringing people together to develop a security-focused Linux distribution and useful software.
 
-We value clever ideas, clean code, and open collaboration. Our projects are works in progress, so please check each repository for its current status and guidelines before ye dive in and set sail with the software.
+Our work includes defensive security tools, Linux utilities, scripts, and web projects. We welcome collaboration across borders and believe good open-source software grows through shared ideas and contributions.
 
-## 🧰 What We Build
+## 🎯 Our Work
 
-- 🐧 A secure Linux distribution built to weather any storm
+| Area | What we do |
+|---|---|
+| 🐧 **NaZy OS** | Develop a security-focused Linux distribution |
+| 🛡️ **Security** | Create defensive security tools and practical system utilities |
+| ⚙️ **Linux tools** | Build useful and innovative tools for Linux |
+| 🌐 **Web development** | Create websites and supporting software |
+| ⌨️ **Scripting** | Write scripts and utilities for Linux and Windows |
 
-- 🛡️ Defensive security tools and practical system utilities that won't let ye doon
+## 💻 Languages and Technologies
 
-- ⚙️ Innovative tools to keep yer Linux system shipshape
+| Focus | Technologies |
+|---|---|
+| 🐚 **Shell and system scripts** | Bash, Windows Batch, PowerShell (`.ps1`) |
+| 🧩 **Programming languages** | C, Rust, JavaScript, PHP |
+| 🕸️ **Web** | HTML5, PHP, JavaScript |
+| 📦 **Data and configuration** | JSON |
+| 🐧 **Platforms** | Linux and Windows |
 
-- 🌐 Web projects and supporting software
-
-- ⌨️ Useful scripts for both Linux and Windows environments
-
-
-## 💻 Languages, Scripts and Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Windows%20Batch-2C2C2C?style=for-the-badge" alt="Windows Batch scripts" />
-  <img src="https://img.shields.io/badge/PowerShell%20PS1-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell scripts" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-We work with Bash, Windows Batch scripts, PowerShell scripts, Rust, JavaScript, PHP, HTML5, and JSON. We also write bonnie, readable C code and pick up whatever extra technologies our projects happen to require.
+We aim to write clean, readable C code and choose the right tools for each project.
 
 ## 📜 Open Source and Licensing
 
-Our original code is released under the trusty **GNU General Public License, version 3 or later**, or the **MIT Licence**. Each repository clearly states which licence applies—nae hidden surprises here!
+Our original code is released only under the **GNU General Public License, version 3 or later**, or the **MIT Licence**. Each project repository identifies the licence that applies.
 
-## 🤝 Join the Non Profit Clan
+## 🤝 Take Part
 
-Every wee bit of help is more nor welcome. Whether ye fancy contributing code, testing out projects, polishing up documentation, sharing feedback, or just spreading the word about NaZy OS—come on in!
+Every contribution is welcome. You can help by:
 
-### 💡 Got a braw project idea?
+- 🧑‍💻 Contributing code
+- 🧪 Testing projects and sharing feedback
+- 📖 Improving documentation
+- 💡 Suggesting tools or new projects
+- 📣 Sharing NaZy OS and helping more people find our work
 
-We’re always happy to hear fresh thoughts and suggestions for new tools. Drop us a line at:
+### 💡 Suggest a project
+
+We are happy to receive project requests and ideas by email:
 
 **[✉️ support@nazy-os.org](mailto:support@nazy-os.org)**
 
-Sharing our website and projects helps more folks discover what NaZy OS is aw aboot.
-
-## 📊 Live GitHub Activity
+## 📊 Live GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/NaZy-OS">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NaZy-OS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics, including stars" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=NaZy-OS&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics, including stars, commits, pull requests, issues, contributions, and rank" />
   </a>
   <a href="https://github.com/NaZy-OS">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaZy-OS&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=NaZy-OS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NaZy-OS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaZy-OS&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+    <img width="70%" src="https://streak-stats.demolab.com/?user=NaZy-OS&theme=tokyonight&hide_border=true" alt="Total contributions, current contribution streak, and longest contribution streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NaZy-OS">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaZy-OS&theme=tokyo-night&area=true&hide_border=true" alt="Recent GitHub contribution activity" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NaZy-OS">
+    <img width="95%" src="https://github-profile-trophy.vercel.app/?username=NaZy-OS&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub profile achievements" />
   </a>
 </p>
 
 <div align="center">
 
-**🔗 Built with care · Shared openly · Improved together 🛡️**
+### 🔗 Built together · Shared openly · Improved internationally 🛡️
 
 </div>
+
+Deine früheren Besucher-, Follower- und Repository-Anzeigen sind ebenfalls enthalten. Die Stats-Karten zeigen unter anderem Stars, Commits, Pull Requests, Issues, Sprachverteilung, Beitragsserie und Aktivität. GitHub-Statistikdienste verwenden standardmässig öffentliche Daten. <citation src="1,2"></citation>
