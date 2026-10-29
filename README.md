@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🏴󠁧󠁢󠁳󠁣󠁴󠁿🛡️ NaZy OS 🏴󠁧󠁢󠁳󠁣󠁴󠁿
-
+# 🛡️ NaZy OS 🌐
+[Network Analysis and Zoning for You] 
 ### 🐧 A braw security-focused Linux distro · 🧰 Handy tools · 🌐 Open doors & fair winds
 
-**A non-profit clan o' developers biggin' a security-focused Linux distribution and braw software for Linux and beyond.**
+**A non-profit clan of developers biggin a security-focused Linux distribution and braw software for Linux and beyond.**
 
-[🌍 Website](https://www.nazy-os.org) &nbsp; ◆ &nbsp; [🖥️ GitHub projects](https://github.com/NaZy-OS) &nbsp; ◆ &nbsp; [✉️ Send us a wee message](mailto:support@nazy-os.org)
+[🌍 Website](https://www.NaZy-os.org) &nbsp; ◆ &nbsp; [🖥️ GitHub projects](https://github.com/NAZY-OS?tab=repositories) &nbsp; ◆ &nbsp; [✉️ Send us a mail message](mailto:support@nazy-os.org)
 
 <img src="https://komarev.com/ghpvc/?username=NaZy-OS&style=for-the-badge&color=2563eb" alt="Profile views" />
 
@@ -18,7 +18,7 @@
       └─────────────────────────────────┘
 ```
 
-## 🛰️ About NaZy OS — *Fit's like?*
+## 🛰️ About NaZy OS — Non Profit *Fit's like?*
 
 NaZy OS is a security-focused Linux distribution currently in development. Alongside the main distro, our crew crafts trusty security tools, handy Linux utilities, scripts, and web projects.
 
@@ -58,7 +58,7 @@ We work with Bash, Windows Batch scripts, PowerShell scripts, Rust, JavaScript, 
 
 Our original code is released under the trusty **GNU General Public License, version 3 or later**, or the **MIT Licence**. Each repository clearly states which licence applies—nae hidden surprises here!
 
-## 🤝 Join the Clan
+## 🤝 Join the Non Profit Clan
 
 Every wee bit of help is more nor welcome. Whether ye fancy contributing code, testing out projects, polishing up documentation, sharing feedback, or just spreading the word about NaZy OS—come on in!
 
