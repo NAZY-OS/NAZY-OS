@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/github/followers/NaZy-OS?label=Followers&style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" />
   <img src="https://komarev.com/ghpvc/?username=NaZy-OS&label=Profile%20views&style=for-the-badge&color=2563eb" alt="Profile views" />
 </p>
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNAZY-OS&query=%24.public_repos&label=Public%20repositories&style=for-the-badge&logo=github&color=2563eb)
 
 </div>
 
-[![Public repositories](https://img.shields.io/badge/Public%20repositories-ZAHL-2563eb?style=for-the-badge&logo=github)](https://github.com/NaZy-OS?tab=repositories)
 
 ```text
         ┌────────────────────────────────────────┐
