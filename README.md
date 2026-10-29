@@ -21,7 +21,7 @@
 ```text
         ┌────────────────────────────────────────┐
         │  🌍 International team · Open source   │
-        │  🐧 Linux · 🛡️ Security · 🧰 Tools      │
+        │  🐧 Linux · 🛡️ Security · 🧰 Tools     │
         └────────────────────────────────────────┘
 ```
 
